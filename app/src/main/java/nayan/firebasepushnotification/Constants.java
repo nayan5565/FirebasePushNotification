@@ -4,7 +4,7 @@ package nayan.firebasepushnotification;
  * Created by NAYAN on 5/15/2017.
  */
 public class Constants {
-    public static final String FIREBASE_APP = "YOUR FIREBASE URL";
+    public static final String FIREBASE_APP = "https://match-game.firebaseio.com/";
 
     //Constant to store shared preferences
     public static final String SHARED_PREF = "notificationapp";
@@ -16,5 +16,5 @@ public class Constants {
     public static final String UNIQUE_ID = "uniqueid";
 
     //register.php address in your server
-    public static final String REGISTER_URL = "http://192.168.94.1/firebasepushnotification/register.php";
+    public static final String REGISTER_URL = "http://step2code.com/firebase//register.php";
 }
